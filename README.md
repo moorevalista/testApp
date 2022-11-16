@@ -1,6 +1,11 @@
 # testApp
  App for test purpose at Upscalix
  
+ execute this command before run the app :
+ - yarn install
+ - cd ios && pod install
+ 
+ 
  #IOS emulator Screenshot
 ![Simulator Screen Shot - iPhone 14 Pro Max - 2022-11-16 at 12 13 55](https://user-images.githubusercontent.com/43288099/202090372-3b9cc374-31ca-4a09-bcdf-65fa81a32e22.png)
 ![Simulator Screen Shot - iPhone 14 Pro Max - 2022-11-16 at 12 14 00](https://user-images.githubusercontent.com/43288099/202090393-b04e3e4d-5490-42c5-8803-1c4733c149a9.png)
