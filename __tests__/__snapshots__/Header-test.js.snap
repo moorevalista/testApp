@@ -1,0 +1,80 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BoxUser Component should renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "center",
+      "paddingHorizontal": "5%",
+      "paddingVertical": "2%",
+      "position": "relative",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "height": 40,
+        "marginRight": "5%",
+        "width": 40,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "backdropFilter": "blur(12px)",
+          "backgroundColor": "white",
+          "borderColor": "rgba(54,163,136,1)",
+          "borderRadius": 20,
+          "borderStyle": "solid",
+          "borderWidth": 1,
+          "display": "flex",
+          "flexDirection": "column",
+          "height": 40,
+          "justifyContent": "center",
+          "width": 40,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "rgba(54,163,136,1)",
+            "fontFamily": "SFProText-Regular",
+            "fontSize": 15,
+            "fontWeight": "600",
+            "justifyContent": "center",
+            "letterSpacing": 0.3,
+            "textAlign": "center",
+          }
+        }
+      >
+        JL
+      </Text>
+    </View>
+  </View>
+  <View
+    style={Object {}}
+  >
+    <Text
+      style={
+        Object {
+          "color": "rgba(64,64,64,1)",
+          "fontFamily": "CircularStd-Medium",
+          "fontSize": 14,
+          "fontWeight": "500",
+          "letterSpacing": 0.28,
+        }
+      }
+    >
+      Master: 
+      John Lennon
+    </Text>
+  </View>
+</View>
+`;

@@ -1,0 +1,1911 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BoxUser Component should renders correctly 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "white",
+        "borderRadius": 12,
+        "display": "flex",
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+        "marginBottom": "4%",
+        "paddingHorizontal": "4%",
+        "paddingVertical": "4%",
+      },
+      Object {
+        "backdropFilter": "blur(12px)",
+        "elevation": 0,
+        "shadowColor": "rgba(110,113,145,0.22)",
+        "shadowOffset": Object {
+          "height": 0,
+          "width": 0,
+        },
+        "shadowOpacity": 0.8,
+        "shadowRadius": 5,
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "display": "flex",
+        "flex": 1,
+        "flexDirection": "row",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "flex-start",
+          "display": "flex",
+          "flexDirection": "column",
+          "justifyContent": "flex-start",
+          "marginRight": "5%",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backdropFilter": "blur(12px)",
+            "backgroundColor": "rgba(0, 0, 0, 0.3)",
+            "borderColor": "rgba(255,255,255,0.3)",
+            "borderRadius": 20,
+            "borderStyle": "solid",
+            "borderWidth": 1,
+            "height": 40,
+            "width": 40,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "backdropFilter": "blur(12px)",
+              "backgroundColor": "linear-gradient(0deg, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3))",
+              "borderColor": "rgba(255,255,255,0.3)",
+              "borderRadius": 20,
+              "borderStyle": "solid",
+              "borderWidth": 1,
+              "display": "flex",
+              "flexDirection": "column",
+              "height": 38,
+              "justifyContent": "center",
+              "width": 38,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "rgba(255, 255, 255, 1)",
+                "fontFamily": "SFProText-Regular",
+                "fontSize": 15,
+                "fontWeight": "600",
+                "justifyContent": "center",
+                "letterSpacing": 0.3,
+                "textAlign": "center",
+              }
+            }
+          >
+            JL
+          </Text>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "flex": 1,
+          "paddingRight": "2%",
+        }
+      }
+    >
+      <Text
+        numberOfLines={1}
+        style={
+          Object {
+            "color": "rgba(64,64,64,1)",
+            "fontFamily": "CircularStd-Medium",
+            "fontSize": 14,
+            "lineHeight": 20,
+          }
+        }
+      >
+        John Lennon
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "display": "flex",
+        "flexDirection": "row",
+      }
+    }
+  >
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onFocus={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      testID="btn"
+    >
+      <Image
+        source={
+          Object {
+            "process": [Function],
+          }
+        }
+        style={
+          Object {
+            "height": 24,
+            "marginRight": 8,
+            "width": 24,
+          }
+        }
+      />
+    </View>
+    <Image
+      source={
+        Object {
+          "process": [Function],
+        }
+      }
+      style={
+        Object {
+          "height": 24,
+          "width": 24,
+        }
+      }
+    />
+  </View>
+</View>
+`;
+
+exports[`BoxUser Component should renders correctly 2`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "white",
+        "borderRadius": 12,
+        "display": "flex",
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+        "marginBottom": "4%",
+        "paddingHorizontal": "4%",
+        "paddingVertical": "4%",
+      },
+      Object {
+        "backdropFilter": "blur(12px)",
+        "elevation": 0,
+        "shadowColor": "rgba(110,113,145,0.22)",
+        "shadowOffset": Object {
+          "height": 0,
+          "width": 0,
+        },
+        "shadowOpacity": 0.8,
+        "shadowRadius": 5,
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "display": "flex",
+        "flex": 1,
+        "flexDirection": "row",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "flex-start",
+          "display": "flex",
+          "flexDirection": "column",
+          "justifyContent": "flex-start",
+          "marginRight": "5%",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backdropFilter": "blur(12px)",
+            "backgroundColor": "rgba(0, 0, 0, 0.3)",
+            "borderColor": "rgba(255,255,255,0.3)",
+            "borderRadius": 20,
+            "borderStyle": "solid",
+            "borderWidth": 1,
+            "height": 40,
+            "width": 40,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "backdropFilter": "blur(12px)",
+              "backgroundColor": "linear-gradient(0deg, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3))",
+              "borderColor": "rgba(255,255,255,0.3)",
+              "borderRadius": 20,
+              "borderStyle": "solid",
+              "borderWidth": 1,
+              "display": "flex",
+              "flexDirection": "column",
+              "height": 38,
+              "justifyContent": "center",
+              "width": 38,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "rgba(255, 255, 255, 1)",
+                "fontFamily": "SFProText-Regular",
+                "fontSize": 15,
+                "fontWeight": "600",
+                "justifyContent": "center",
+                "letterSpacing": 0.3,
+                "textAlign": "center",
+              }
+            }
+          >
+            PM
+          </Text>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "flex": 1,
+          "paddingRight": "2%",
+        }
+      }
+    >
+      <Text
+        numberOfLines={1}
+        style={
+          Object {
+            "color": "rgba(64,64,64,1)",
+            "fontFamily": "CircularStd-Medium",
+            "fontSize": 14,
+            "lineHeight": 20,
+          }
+        }
+      >
+        Paul McCartney
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "display": "flex",
+        "flexDirection": "row",
+      }
+    }
+  >
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onFocus={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      testID="btn"
+    >
+      <Image
+        source={
+          Object {
+            "process": [Function],
+          }
+        }
+        style={
+          Object {
+            "height": 24,
+            "marginRight": 8,
+            "width": 24,
+          }
+        }
+      />
+    </View>
+    <Image
+      source={
+        Object {
+          "process": [Function],
+        }
+      }
+      style={
+        Object {
+          "height": 24,
+          "width": 24,
+        }
+      }
+    />
+  </View>
+</View>
+`;
+
+exports[`BoxUser Component should renders correctly 3`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "white",
+        "borderRadius": 12,
+        "display": "flex",
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+        "marginBottom": "4%",
+        "paddingHorizontal": "4%",
+        "paddingVertical": "4%",
+      },
+      Object {
+        "backdropFilter": "blur(12px)",
+        "elevation": 0,
+        "shadowColor": "rgba(110,113,145,0.22)",
+        "shadowOffset": Object {
+          "height": 0,
+          "width": 0,
+        },
+        "shadowOpacity": 0.8,
+        "shadowRadius": 5,
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "display": "flex",
+        "flex": 1,
+        "flexDirection": "row",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "flex-start",
+          "display": "flex",
+          "flexDirection": "column",
+          "justifyContent": "flex-start",
+          "marginRight": "5%",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backdropFilter": "blur(12px)",
+            "backgroundColor": "rgba(0, 0, 0, 0.3)",
+            "borderColor": "rgba(255,255,255,0.3)",
+            "borderRadius": 20,
+            "borderStyle": "solid",
+            "borderWidth": 1,
+            "height": 40,
+            "width": 40,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "backdropFilter": "blur(12px)",
+              "backgroundColor": "linear-gradient(0deg, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3))",
+              "borderColor": "rgba(255,255,255,0.3)",
+              "borderRadius": 20,
+              "borderStyle": "solid",
+              "borderWidth": 1,
+              "display": "flex",
+              "flexDirection": "column",
+              "height": 38,
+              "justifyContent": "center",
+              "width": 38,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "rgba(255, 255, 255, 1)",
+                "fontFamily": "SFProText-Regular",
+                "fontSize": 15,
+                "fontWeight": "600",
+                "justifyContent": "center",
+                "letterSpacing": 0.3,
+                "textAlign": "center",
+              }
+            }
+          >
+            GH
+          </Text>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "flex": 1,
+          "paddingRight": "2%",
+        }
+      }
+    >
+      <Text
+        numberOfLines={1}
+        style={
+          Object {
+            "color": "rgba(64,64,64,1)",
+            "fontFamily": "CircularStd-Medium",
+            "fontSize": 14,
+            "lineHeight": 20,
+          }
+        }
+      >
+        Georgia Harrison
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "display": "flex",
+        "flexDirection": "row",
+      }
+    }
+  >
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onFocus={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      testID="btn"
+    >
+      <Image
+        source={
+          Object {
+            "process": [Function],
+          }
+        }
+        style={
+          Object {
+            "height": 24,
+            "marginRight": 8,
+            "width": 24,
+          }
+        }
+      />
+    </View>
+    <Image
+      source={
+        Object {
+          "process": [Function],
+        }
+      }
+      style={
+        Object {
+          "height": 24,
+          "width": 24,
+        }
+      }
+    />
+  </View>
+</View>
+`;
+
+exports[`BoxUser Component should renders correctly 4`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "white",
+        "borderRadius": 12,
+        "display": "flex",
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+        "marginBottom": "4%",
+        "paddingHorizontal": "4%",
+        "paddingVertical": "4%",
+      },
+      Object {
+        "backdropFilter": "blur(12px)",
+        "elevation": 0,
+        "shadowColor": "rgba(110,113,145,0.22)",
+        "shadowOffset": Object {
+          "height": 0,
+          "width": 0,
+        },
+        "shadowOpacity": 0.8,
+        "shadowRadius": 5,
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "display": "flex",
+        "flex": 1,
+        "flexDirection": "row",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "flex-start",
+          "display": "flex",
+          "flexDirection": "column",
+          "justifyContent": "flex-start",
+          "marginRight": "5%",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backdropFilter": "blur(12px)",
+            "backgroundColor": "rgba(0, 0, 0, 0.3)",
+            "borderColor": "rgba(255,255,255,0.3)",
+            "borderRadius": 20,
+            "borderStyle": "solid",
+            "borderWidth": 1,
+            "height": 40,
+            "width": 40,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "backdropFilter": "blur(12px)",
+              "backgroundColor": "linear-gradient(0deg, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3))",
+              "borderColor": "rgba(255,255,255,0.3)",
+              "borderRadius": 20,
+              "borderStyle": "solid",
+              "borderWidth": 1,
+              "display": "flex",
+              "flexDirection": "column",
+              "height": 38,
+              "justifyContent": "center",
+              "width": 38,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "rgba(255, 255, 255, 1)",
+                "fontFamily": "SFProText-Regular",
+                "fontSize": 15,
+                "fontWeight": "600",
+                "justifyContent": "center",
+                "letterSpacing": 0.3,
+                "textAlign": "center",
+              }
+            }
+          >
+            RS
+          </Text>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "flex": 1,
+          "paddingRight": "2%",
+        }
+      }
+    >
+      <Text
+        numberOfLines={1}
+        style={
+          Object {
+            "color": "rgba(64,64,64,1)",
+            "fontFamily": "CircularStd-Medium",
+            "fontSize": 14,
+            "lineHeight": 20,
+          }
+        }
+      >
+        Ringo Starr
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "display": "flex",
+        "flexDirection": "row",
+      }
+    }
+  >
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onFocus={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      testID="btn"
+    >
+      <Image
+        source={
+          Object {
+            "process": [Function],
+          }
+        }
+        style={
+          Object {
+            "height": 24,
+            "marginRight": 8,
+            "width": 24,
+          }
+        }
+      />
+    </View>
+    <Image
+      source={
+        Object {
+          "process": [Function],
+        }
+      }
+      style={
+        Object {
+          "height": 24,
+          "width": 24,
+        }
+      }
+    />
+  </View>
+</View>
+`;
+
+exports[`BoxUser Component should renders correctly 5`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "white",
+        "borderRadius": 12,
+        "display": "flex",
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+        "marginBottom": "4%",
+        "paddingHorizontal": "4%",
+        "paddingVertical": "4%",
+      },
+      Object {
+        "backdropFilter": "blur(12px)",
+        "elevation": 0,
+        "shadowColor": "rgba(110,113,145,0.22)",
+        "shadowOffset": Object {
+          "height": 0,
+          "width": 0,
+        },
+        "shadowOpacity": 0.8,
+        "shadowRadius": 5,
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "display": "flex",
+        "flex": 1,
+        "flexDirection": "row",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "flex-start",
+          "display": "flex",
+          "flexDirection": "column",
+          "justifyContent": "flex-start",
+          "marginRight": "5%",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backdropFilter": "blur(12px)",
+            "backgroundColor": "rgba(0, 0, 0, 0.3)",
+            "borderColor": "rgba(255,255,255,0.3)",
+            "borderRadius": 20,
+            "borderStyle": "solid",
+            "borderWidth": 1,
+            "height": 40,
+            "width": 40,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "backdropFilter": "blur(12px)",
+              "backgroundColor": "linear-gradient(0deg, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3))",
+              "borderColor": "rgba(255,255,255,0.3)",
+              "borderRadius": 20,
+              "borderStyle": "solid",
+              "borderWidth": 1,
+              "display": "flex",
+              "flexDirection": "column",
+              "height": 38,
+              "justifyContent": "center",
+              "width": 38,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "rgba(255, 255, 255, 1)",
+                "fontFamily": "SFProText-Regular",
+                "fontSize": 15,
+                "fontWeight": "600",
+                "justifyContent": "center",
+                "letterSpacing": 0.3,
+                "textAlign": "center",
+              }
+            }
+          >
+            AP
+          </Text>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "flex": 1,
+          "paddingRight": "2%",
+        }
+      }
+    >
+      <Text
+        numberOfLines={1}
+        style={
+          Object {
+            "color": "rgba(64,64,64,1)",
+            "fontFamily": "CircularStd-Medium",
+            "fontSize": 14,
+            "lineHeight": 20,
+          }
+        }
+      >
+        Andi Purwanto
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "display": "flex",
+        "flexDirection": "row",
+      }
+    }
+  >
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onFocus={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      testID="btn"
+    >
+      <Image
+        source={
+          Object {
+            "process": [Function],
+          }
+        }
+        style={
+          Object {
+            "height": 24,
+            "marginRight": 8,
+            "width": 24,
+          }
+        }
+      />
+    </View>
+    <Image
+      source={
+        Object {
+          "process": [Function],
+        }
+      }
+      style={
+        Object {
+          "height": 24,
+          "width": 24,
+        }
+      }
+    />
+  </View>
+</View>
+`;
+
+exports[`BoxUser Component should renders correctly 6`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "white",
+        "borderRadius": 12,
+        "display": "flex",
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+        "marginBottom": "4%",
+        "paddingHorizontal": "4%",
+        "paddingVertical": "4%",
+      },
+      Object {
+        "backdropFilter": "blur(12px)",
+        "elevation": 0,
+        "shadowColor": "rgba(110,113,145,0.22)",
+        "shadowOffset": Object {
+          "height": 0,
+          "width": 0,
+        },
+        "shadowOpacity": 0.8,
+        "shadowRadius": 5,
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "display": "flex",
+        "flex": 1,
+        "flexDirection": "row",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "flex-start",
+          "display": "flex",
+          "flexDirection": "column",
+          "justifyContent": "flex-start",
+          "marginRight": "5%",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backdropFilter": "blur(12px)",
+            "backgroundColor": "rgba(0, 0, 0, 0.3)",
+            "borderColor": "rgba(255,255,255,0.3)",
+            "borderRadius": 20,
+            "borderStyle": "solid",
+            "borderWidth": 1,
+            "height": 40,
+            "width": 40,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "backdropFilter": "blur(12px)",
+              "backgroundColor": "linear-gradient(0deg, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3))",
+              "borderColor": "rgba(255,255,255,0.3)",
+              "borderRadius": 20,
+              "borderStyle": "solid",
+              "borderWidth": 1,
+              "display": "flex",
+              "flexDirection": "column",
+              "height": 38,
+              "justifyContent": "center",
+              "width": 38,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "rgba(255, 255, 255, 1)",
+                "fontFamily": "SFProText-Regular",
+                "fontSize": 15,
+                "fontWeight": "600",
+                "justifyContent": "center",
+                "letterSpacing": 0.3,
+                "textAlign": "center",
+              }
+            }
+          >
+            KB
+          </Text>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "flex": 1,
+          "paddingRight": "2%",
+        }
+      }
+    >
+      <Text
+        numberOfLines={1}
+        style={
+          Object {
+            "color": "rgba(64,64,64,1)",
+            "fontFamily": "CircularStd-Medium",
+            "fontSize": 14,
+            "lineHeight": 20,
+          }
+        }
+      >
+        Kevin Bastian
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "display": "flex",
+        "flexDirection": "row",
+      }
+    }
+  >
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onFocus={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      testID="btn"
+    >
+      <Image
+        source={
+          Object {
+            "process": [Function],
+          }
+        }
+        style={
+          Object {
+            "height": 24,
+            "marginRight": 8,
+            "width": 24,
+          }
+        }
+      />
+    </View>
+    <Image
+      source={
+        Object {
+          "process": [Function],
+        }
+      }
+      style={
+        Object {
+          "height": 24,
+          "width": 24,
+        }
+      }
+    />
+  </View>
+</View>
+`;
+
+exports[`BoxUser Component should renders correctly 7`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "white",
+        "borderRadius": 12,
+        "display": "flex",
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+        "marginBottom": "4%",
+        "paddingHorizontal": "4%",
+        "paddingVertical": "4%",
+      },
+      Object {
+        "backdropFilter": "blur(12px)",
+        "elevation": 0,
+        "shadowColor": "rgba(110,113,145,0.22)",
+        "shadowOffset": Object {
+          "height": 0,
+          "width": 0,
+        },
+        "shadowOpacity": 0.8,
+        "shadowRadius": 5,
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "display": "flex",
+        "flex": 1,
+        "flexDirection": "row",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "flex-start",
+          "display": "flex",
+          "flexDirection": "column",
+          "justifyContent": "flex-start",
+          "marginRight": "5%",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backdropFilter": "blur(12px)",
+            "backgroundColor": "rgba(0, 0, 0, 0.3)",
+            "borderColor": "rgba(255,255,255,0.3)",
+            "borderRadius": 20,
+            "borderStyle": "solid",
+            "borderWidth": 1,
+            "height": 40,
+            "width": 40,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "backdropFilter": "blur(12px)",
+              "backgroundColor": "linear-gradient(0deg, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3))",
+              "borderColor": "rgba(255,255,255,0.3)",
+              "borderRadius": 20,
+              "borderStyle": "solid",
+              "borderWidth": 1,
+              "display": "flex",
+              "flexDirection": "column",
+              "height": 38,
+              "justifyContent": "center",
+              "width": 38,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "rgba(255, 255, 255, 1)",
+                "fontFamily": "SFProText-Regular",
+                "fontSize": 15,
+                "fontWeight": "600",
+                "justifyContent": "center",
+                "letterSpacing": 0.3,
+                "textAlign": "center",
+              }
+            }
+          >
+            RM
+          </Text>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "flex": 1,
+          "paddingRight": "2%",
+        }
+      }
+    >
+      <Text
+        numberOfLines={1}
+        style={
+          Object {
+            "color": "rgba(64,64,64,1)",
+            "fontFamily": "CircularStd-Medium",
+            "fontSize": 14,
+            "lineHeight": 20,
+          }
+        }
+      >
+        Rayyan Moore
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "display": "flex",
+        "flexDirection": "row",
+      }
+    }
+  >
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onFocus={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      testID="btn"
+    >
+      <Image
+        source={
+          Object {
+            "process": [Function],
+          }
+        }
+        style={
+          Object {
+            "height": 24,
+            "marginRight": 8,
+            "width": 24,
+          }
+        }
+      />
+    </View>
+    <Image
+      source={
+        Object {
+          "process": [Function],
+        }
+      }
+      style={
+        Object {
+          "height": 24,
+          "width": 24,
+        }
+      }
+    />
+  </View>
+</View>
+`;
+
+exports[`BoxUser Component should renders correctly 8`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "white",
+        "borderRadius": 12,
+        "display": "flex",
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+        "marginBottom": "4%",
+        "paddingHorizontal": "4%",
+        "paddingVertical": "4%",
+      },
+      Object {
+        "backdropFilter": "blur(12px)",
+        "elevation": 0,
+        "shadowColor": "rgba(110,113,145,0.22)",
+        "shadowOffset": Object {
+          "height": 0,
+          "width": 0,
+        },
+        "shadowOpacity": 0.8,
+        "shadowRadius": 5,
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "display": "flex",
+        "flex": 1,
+        "flexDirection": "row",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "flex-start",
+          "display": "flex",
+          "flexDirection": "column",
+          "justifyContent": "flex-start",
+          "marginRight": "5%",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backdropFilter": "blur(12px)",
+            "backgroundColor": "rgba(0, 0, 0, 0.3)",
+            "borderColor": "rgba(255,255,255,0.3)",
+            "borderRadius": 20,
+            "borderStyle": "solid",
+            "borderWidth": 1,
+            "height": 40,
+            "width": 40,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "backdropFilter": "blur(12px)",
+              "backgroundColor": "linear-gradient(0deg, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3))",
+              "borderColor": "rgba(255,255,255,0.3)",
+              "borderRadius": 20,
+              "borderStyle": "solid",
+              "borderWidth": 1,
+              "display": "flex",
+              "flexDirection": "column",
+              "height": 38,
+              "justifyContent": "center",
+              "width": 38,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "rgba(255, 255, 255, 1)",
+                "fontFamily": "SFProText-Regular",
+                "fontSize": 15,
+                "fontWeight": "600",
+                "justifyContent": "center",
+                "letterSpacing": 0.3,
+                "textAlign": "center",
+              }
+            }
+          >
+            OS
+          </Text>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "flex": 1,
+          "paddingRight": "2%",
+        }
+      }
+    >
+      <Text
+        numberOfLines={1}
+        style={
+          Object {
+            "color": "rgba(64,64,64,1)",
+            "fontFamily": "CircularStd-Medium",
+            "fontSize": 14,
+            "lineHeight": 20,
+          }
+        }
+      >
+        Onno Soppo
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "display": "flex",
+        "flexDirection": "row",
+      }
+    }
+  >
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onFocus={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      testID="btn"
+    >
+      <Image
+        source={
+          Object {
+            "process": [Function],
+          }
+        }
+        style={
+          Object {
+            "height": 24,
+            "marginRight": 8,
+            "width": 24,
+          }
+        }
+      />
+    </View>
+    <Image
+      source={
+        Object {
+          "process": [Function],
+        }
+      }
+      style={
+        Object {
+          "height": 24,
+          "width": 24,
+        }
+      }
+    />
+  </View>
+</View>
+`;
+
+exports[`BoxUser Component should renders correctly 9`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "white",
+        "borderRadius": 12,
+        "display": "flex",
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+        "marginBottom": "4%",
+        "paddingHorizontal": "4%",
+        "paddingVertical": "4%",
+      },
+      Object {
+        "backdropFilter": "blur(12px)",
+        "elevation": 0,
+        "shadowColor": "rgba(110,113,145,0.22)",
+        "shadowOffset": Object {
+          "height": 0,
+          "width": 0,
+        },
+        "shadowOpacity": 0.8,
+        "shadowRadius": 5,
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "display": "flex",
+        "flex": 1,
+        "flexDirection": "row",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "flex-start",
+          "display": "flex",
+          "flexDirection": "column",
+          "justifyContent": "flex-start",
+          "marginRight": "5%",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backdropFilter": "blur(12px)",
+            "backgroundColor": "rgba(0, 0, 0, 0.3)",
+            "borderColor": "rgba(255,255,255,0.3)",
+            "borderRadius": 20,
+            "borderStyle": "solid",
+            "borderWidth": 1,
+            "height": 40,
+            "width": 40,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "backdropFilter": "blur(12px)",
+              "backgroundColor": "linear-gradient(0deg, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3))",
+              "borderColor": "rgba(255,255,255,0.3)",
+              "borderRadius": 20,
+              "borderStyle": "solid",
+              "borderWidth": 1,
+              "display": "flex",
+              "flexDirection": "column",
+              "height": 38,
+              "justifyContent": "center",
+              "width": 38,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "rgba(255, 255, 255, 1)",
+                "fontFamily": "SFProText-Regular",
+                "fontSize": 15,
+                "fontWeight": "600",
+                "justifyContent": "center",
+                "letterSpacing": 0.3,
+                "textAlign": "center",
+              }
+            }
+          >
+            SJ
+          </Text>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "flex": 1,
+          "paddingRight": "2%",
+        }
+      }
+    >
+      <Text
+        numberOfLines={1}
+        style={
+          Object {
+            "color": "rgba(64,64,64,1)",
+            "fontFamily": "CircularStd-Medium",
+            "fontSize": 14,
+            "lineHeight": 20,
+          }
+        }
+      >
+        Soppo Jarwo
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "display": "flex",
+        "flexDirection": "row",
+      }
+    }
+  >
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onFocus={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      testID="btn"
+    >
+      <Image
+        source={
+          Object {
+            "process": [Function],
+          }
+        }
+        style={
+          Object {
+            "height": 24,
+            "marginRight": 8,
+            "width": 24,
+          }
+        }
+      />
+    </View>
+    <Image
+      source={
+        Object {
+          "process": [Function],
+        }
+      }
+      style={
+        Object {
+          "height": 24,
+          "width": 24,
+        }
+      }
+    />
+  </View>
+</View>
+`;
+
+exports[`BoxUser Component should renders correctly 10`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "white",
+        "borderRadius": 12,
+        "display": "flex",
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+        "marginBottom": "4%",
+        "paddingHorizontal": "4%",
+        "paddingVertical": "4%",
+      },
+      Object {
+        "backdropFilter": "blur(12px)",
+        "elevation": 0,
+        "shadowColor": "rgba(110,113,145,0.22)",
+        "shadowOffset": Object {
+          "height": 0,
+          "width": 0,
+        },
+        "shadowOpacity": 0.8,
+        "shadowRadius": 5,
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "display": "flex",
+        "flex": 1,
+        "flexDirection": "row",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "flex-start",
+          "display": "flex",
+          "flexDirection": "column",
+          "justifyContent": "flex-start",
+          "marginRight": "5%",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backdropFilter": "blur(12px)",
+            "backgroundColor": "rgba(0, 0, 0, 0.3)",
+            "borderColor": "rgba(255,255,255,0.3)",
+            "borderRadius": 20,
+            "borderStyle": "solid",
+            "borderWidth": 1,
+            "height": 40,
+            "width": 40,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "backdropFilter": "blur(12px)",
+              "backgroundColor": "linear-gradient(0deg, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3))",
+              "borderColor": "rgba(255,255,255,0.3)",
+              "borderRadius": 20,
+              "borderStyle": "solid",
+              "borderWidth": 1,
+              "display": "flex",
+              "flexDirection": "column",
+              "height": 38,
+              "justifyContent": "center",
+              "width": 38,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "rgba(255, 255, 255, 1)",
+                "fontFamily": "SFProText-Regular",
+                "fontSize": 15,
+                "fontWeight": "600",
+                "justifyContent": "center",
+                "letterSpacing": 0.3,
+                "textAlign": "center",
+              }
+            }
+          >
+            AJ
+          </Text>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "flex": 1,
+          "paddingRight": "2%",
+        }
+      }
+    >
+      <Text
+        numberOfLines={1}
+        style={
+          Object {
+            "color": "rgba(64,64,64,1)",
+            "fontFamily": "CircularStd-Medium",
+            "fontSize": 14,
+            "lineHeight": 20,
+          }
+        }
+      >
+        Ade Juni
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "display": "flex",
+        "flexDirection": "row",
+      }
+    }
+  >
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onFocus={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      testID="btn"
+    >
+      <Image
+        source={
+          Object {
+            "process": [Function],
+          }
+        }
+        style={
+          Object {
+            "height": 24,
+            "marginRight": 8,
+            "width": 24,
+          }
+        }
+      />
+    </View>
+    <Image
+      source={
+        Object {
+          "process": [Function],
+        }
+      }
+      style={
+        Object {
+          "height": 24,
+          "width": 24,
+        }
+      }
+    />
+  </View>
+</View>
+`;
